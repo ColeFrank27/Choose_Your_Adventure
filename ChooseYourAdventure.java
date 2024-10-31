@@ -75,7 +75,7 @@ public class ChooseYourAdventure {
         } else {
             arrival = "on time";
         }
-        System.out.println("You made it to school " + arrival);
+        System.out.println(" You made it to school " + arrival);
 
     }
 }
